@@ -1,3 +1,5 @@
+from Classes.Fintual_Portafolio import Portafolio
+
 a = Portafolio(186)
 
 print(a.Price("2021/11/04"))
