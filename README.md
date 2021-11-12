@@ -14,5 +14,7 @@ Donde el ID utilizado es el asociado a cada "real_asset"
 EJ:
 
 186 = Risky Norris Serie A
+
 187 = Moderate Pitt Serie A
+
 188 = Conservative Clooney Serie A
