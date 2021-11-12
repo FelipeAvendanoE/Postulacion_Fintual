@@ -7,7 +7,7 @@ Bonus Track: make the Profit method return the "annualized return" of the portfo
 
 ---
 
-Para obtener los precios asociados en este caso a fondos mutuos se utiliza la API de fintual
+Para obtener los precios se utiliza la API de fintual
 
 https://fintual.cl/api-docs/index.html
 
